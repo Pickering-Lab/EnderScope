@@ -18,14 +18,14 @@ The EnderScope is a low-cost scanning microscope, based on the mechanics of the 
 | Raspberry Pi 4 Model B | 1 |  | [Link to Raspberry Pi](https://ie.farnell.com/raspberry-pi/rpi4-modbp-4gb/raspberry-pi-4-model-b-4gb/dp/3051887) | 62.20 |
 | Pi camera CSI cable (Long ~100cm) | 1 | Connect Raspberry Pi to HQ Camera | [Link to CSI Cable](https://ie.farnell.com/mcm/83-17610/csi-dsi-extension-cable-1-meter/dp/2801336?st=100cm%20csi%20cable) | 6.32 |
 | 5V Power Supply | 2 | One to power Raspberry Pi and one to power Arduino Nano| Text | Text |
-| Arduino Nano | 1 | Text | Text | Text |
-| Push Button | 1 | Text | Text | Text |
-| 220 Ohm Resistor | 1 | Text | Text | Text |
-| 170 pin breadboard | 1 | Text | Text | Text |
+| Arduino Nano | 1 | To control LED ring | [Link to Arduino](https://store.arduino.cc/products/arduino-nano?queryID=undefined) | 21.60 |
+| Push Button | 1 | Turn LED ring on, green or white | [Link to push buttons](https://www.amazon.co.uk/Gikfun-6x6x5mm-Switch-Arduino-EK1019U/dp/B07DQL2GG4/ref=sr_1_1_sspa?crid=17EAN9SJTHE6H&keywords=arduino+push+button&qid=1687538997&sprefix=arduino+push+button%2Caps%2C59&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) | 8.09 |
+| 220 Ohm Resistor | 1 | For push button | [Link to resistors](https://www.amazon.co.uk/Projects-50EP114220R-220-Resistors-Pack/dp/B0BQ1W9RHK/ref=sr_1_4_sspa?crid=3U55YJR7HT7W&keywords=220+ohm+resistor&qid=1687539054&sprefix=220%2Caps%2C58&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) | 6.08 |
+| 170 pin breadboard | 1 | For arduino and push button | [Link to breadboard](https://www.amazon.co.uk/SIGNAL-PSG-BB-170W-2BP-Breadboard-Plastic-34-5mm/dp/B01IO3IS12/ref=sr_1_3?crid=2BN9MA6U1KGBD&keywords=170+pin+breadboard&qid=1687539158&sprefix=170+pin+breadboard%2Caps%2C46&sr=8-3) | 3.85 |
 | USB-Mini USB Cable | 1 | To connect Arduino Nano to 5V power supply | Text | Text |
 | USB-Micro USB Cable | 1 | To connect Ender to Raspberry Pi| Text | Text |
-| Lighting Gels | 1 | Used as Emmission Filter | Text | Text |
-| 16 LED Ring | 1 | Illumination Source for Microscope | Text | Text |
+| Lighting Gels | 1 | Used as Emmission Filter | [Link to lighting gels](https://www.aliexpress.com/item/32695436168.html?pdp_npi=2%40dis%21EUR%21%E2%82%AC%208%2C78%21%E2%82%AC%208%2C78%21%21%21%21%21%4021032fa616703165944567885e866e%2165363130207%21btf&_t=pvid:451ae040-dcc0-4a03-897e-5453e0968200&afTraceInfo=32695436168__pc__pcBridgePPC__xxxxxx__1670316594&spm=a2g0o.ppclist.product.mainProduct) | 7.66 |
+| 16 LED Ring | 1 | Illumination Source for Microscope | [Link to LED ring](https://www.amazon.co.uk/Hobby-Components-Ltd-45MM-WS2812B/dp/B01I1D6O48/ref=sr_1_4?keywords=neopixel+16+led+ring&qid=1687539564&sr=8-4) | 9.53 |
 | Glass from picture frame, 2mm in thickness, 21x30cm | 1 | Text | Text | Text |
 | Binder Clips | 4 | To hold glass on print bed | Text | Text |
 | **Screws, Nuts and Tools** |
