@@ -14,8 +14,8 @@ The EnderScope is a low-cost scanning microscope, based on the mechanics of the 
 | Monitor | 1 | Display for EnderScope | [Link to Monitor](https://www.amazon.co.uk/Dell-Professional-Widescreen-Backlit-Monitor/dp/B00F6390EI/ref=sr_1_5?crid=155O3H11AT8RS&keywords=flat+panel+monitor&qid=1687528400&sprefix=flat+panel+monitor%2Caps%2C56&sr=8-5) | 58.16 |
 | HDMI-micro HDMI | 1 | To connect Raspberry Pi to Monitor | [Link to HDMI-microHDMI](https://ie.farnell.com/raspberry-pi/t7733ax/cable-micro-hdmi-hdmi-plug-2m/dp/3107129?gclid=CjwKCAjwhdWkBhBZEiwA1ibLmHy8lcH_6-mT7bqlnekisB4aghKRtLZO5OpQ6GcXcyXmCx-YCe7CPRoCSIsQAvD_BwE&gross_price=true&CMP=KNC-GIE-GEN-SHOPPING-PerformanceMax-TEST-962) | 5.62 |
 | 4x RMS Finite Conjugate Objective Lens | 1 |  | [Link to objective lens](https://www.amazon.com/Compound-Microscope-Achromatic-Objectives-Conjugate/dp/B08HW6XMQQ/ref=sr_1_2?crid=2XI5O2ZMWLERR&keywords=rms+finite+conjugate+objective+lens&qid=1674738740&sprefix=rms+finite+conjugate+objective+lens%2Caps%2C127&sr=8-2) | 8.63 |
-| Raspberry Pi HQ Camera | 1 |  | [Link to HQ Camera](https://ie.farnell.com/raspberry-pi/rpi-hq-camera/rpi-high-quality-camera-12-3-mp/dp/3381605?gclid=CjwKCAjwhdWkBhBZEiwA1ibLmLPRsZ-kTz68qI1Buou0t5rqj3jjkPpFDO3mcRCRjVkKVoDt2jtdiRoC4SUQAvD_BwE&gross_price=true&CMP=KNC-GIE-GEN-SHOPPING-PerformanceMax-No-Impressions) | 56.54 |
-| Raspberry Pi 4 Model B | 1 |  | [Link to Raspberry Pi](https://ie.farnell.com/raspberry-pi/rpi4-modbp-4gb/raspberry-pi-4-model-b-4gb/dp/3051887) | 62.20 |
+| Raspberry Pi HQ Camera | 1 | | [Link to HQ Camera](https://ie.farnell.com/raspberry-pi/rpi-hq-camera/rpi-high-quality-camera-12-3-mp/dp/3381605?gclid=CjwKCAjwhdWkBhBZEiwA1ibLmLPRsZ-kTz68qI1Buou0t5rqj3jjkPpFDO3mcRCRjVkKVoDt2jtdiRoC4SUQAvD_BwE&gross_price=true&CMP=KNC-GIE-GEN-SHOPPING-PerformanceMax-No-Impressions) | 56.54 |
+| Raspberry Pi 4 Model B | 1 | A low-cost computer used to run the EnderScope | [Link to Raspberry Pi](https://ie.farnell.com/raspberry-pi/rpi4-modbp-4gb/raspberry-pi-4-model-b-4gb/dp/3051887) | 62.20 |
 | Pi camera CSI cable (Long ~100cm) | 1 | Connect Raspberry Pi to HQ Camera | [Link to CSI Cable](https://ie.farnell.com/mcm/83-17610/csi-dsi-extension-cable-1-meter/dp/2801336?st=100cm%20csi%20cable) | 6.32 |
 | 5V Power Supply USB Type C | 2 | To power Raspberry Pi | [Link to Raspberry Pi power supply](https://ie.rs-online.com/web/p/raspberry-pi-power-supplies/1873424?cm_mmc=IE-PLA-DS3A-_-google-_-CSS_IE_EN_Pmax_Test-_--_-&matchtype=&&s_kwcid=AL!14853!3!!!!x!!&gclid=Cj0KCQjw7uSkBhDGARIsAMCZNJvJgLZ8F8H9JMSdhJQLBEwR4ra1u99iysdaG6aJ2BMPwZ8ZWJeXU8waAowZEALw_wcB&gclsrc=aw.ds) | 9.69 |
 | 5V Power Supply USB | 2 | To power Arduino Nano| [Link to 5V power supply](https://www.amazon.co.uk/Charger-Adaptor-Compact-Charging-Samsung/dp/B0BV65Y6B2/ref=sr_1_9?crid=2RVFZQS96QDYE&keywords=5v+wall+charger&qid=1687785970&sprefix=5v+wall+%2Caps%2C58&sr=8-9) | 5.98 |
@@ -28,14 +28,15 @@ The EnderScope is a low-cost scanning microscope, based on the mechanics of the 
 | USB type A - Micro USB Cable | 1 | To connect Ender to Raspberry Pi| [Link to micro USB cable](https://www.amazon.co.uk/AmazonBasics-Male-Micro-Cable-Black/dp/B07232M876/ref=sr_1_1_ffob_sspa?crid=276BWYDT9STTD&keywords=micro%2Busb%2Bcable&qid=1687784254&s=computers&sprefix=micro%2Busb%2B%2Ccomputers%2C55&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) | 5.07 |
 | Lighting Gels | 1 | Used as Emmission Filter | [Link to lighting gels](https://www.aliexpress.com/item/32695436168.html?pdp_npi=2%40dis%21EUR%21%E2%82%AC%208%2C78%21%E2%82%AC%208%2C78%21%21%21%21%21%4021032fa616703165944567885e866e%2165363130207%21btf&_t=pvid:451ae040-dcc0-4a03-897e-5453e0968200&afTraceInfo=32695436168__pc__pcBridgePPC__xxxxxx__1670316594&spm=a2g0o.ppclist.product.mainProduct) | 7.66 |
 | 16 LED Ring | 1 | Illumination Source for Microscope | [Link to LED ring](https://www.amazon.co.uk/Hobby-Components-Ltd-45MM-WS2812B/dp/B01I1D6O48/ref=sr_1_4?keywords=neopixel+16+led+ring&qid=1687539564&sr=8-4) | 9.53 |
-| Glass from picture frame, 2mm in thickness, 21x30cm | 1 | Text | Text | Text |
-| Binder Clips | 4 | To hold glass on print bed | Text | Text |
+| Glass from picture frame, 2mm in thickness, 21x30cm | 1 | Used as a "coverslip" | [Link to picture frame](https://www.ikea.com/ie/en/p/yllevad-frame-black-30429774/?utm_source=google&utm_medium=surfaces&utm_campaign=shopping_feed&utm_content=free_google_shopping_clicks_Decoration&gclid=Cj0KCQjw7uSkBhDGARIsAMCZNJuPV9QcnTO9ueFVAxaAVzIDQurpOPyJlUqf1WcASSWj0xErUw77xK0aAkzMEALw_wcB&gclsrc=aw.ds) | 2.00 |
+| Binder Clips | 4 | To hold glass on print bed | [Link to binder clips](https://www.amazon.co.uk/Office-Files-Documents-Metal-Binder/dp/B00W0K3ENS/ref=sr_1_7?keywords=binder+clips&qid=1687796157&sr=8-7) | 2.38 |
 | **Screws, Nuts and Tools** |
-| M6 12mm Screw | 1 | Text | Text | Text |
-| M6 Square Nut | 1 | Text | Text | Text |
-| Alan Keys | 1 | Text | Text | Text |
-| M3 Screws and Nuts | 4 screws, 4 nuts | Text | Text | Text |
-| Scissors | 1 | Text | Text | Text |
+| M6 12mm Screw | 1 |  |  |  |
+| M6 Square Nut | 1 |  |  |  |
+| Alan Keys | 1 |  |  |  |
+| M3 Screws and Nuts | 4 screws, 4 nuts |  |  |  |
+| Scissors | 1 |  |  |  |
+| **Total** |  |  |  | 524.57 |
 
 ### Printed Parts
 All 3D-printable files can be found [here](Stls). All files were printed in PLA, with 0.2mm layer height, no supports needed.
@@ -72,8 +73,6 @@ intended to be a tight fit and you may need to widen the hole with a drill.
 <a href="#logo" name="logo"><img src="./Images/IMG_20230313_085741.jpg" width="300"></a>
 <a href="#logo" name="logo"><img src="./Images/IMG_20230313_085745.jpg" width="300"></a>
 
-
-
 ### Step 3: Filter Slider
 - Print **‘FilterSlider’** if you haven’t already. Cut out a small square from the lighting gel that is big enough to cover one of the holes in the **‘FilterSlider’** print and clip it in under the triangle notches in the print.
 
@@ -103,7 +102,6 @@ intended to be a tight fit and you may need to widen the hole with a drill.
 - Solder dupont cables to 5v, ground and data input solder pads of the Neopixel 16 LED ring.
 - Wire up the neopixel as shown below:
   
-- Upload the following sketch to the Arduino Nano:
 
 ### Step 5: EnderScope
 - Connect the Raspberry Pi HQ Camera to the Raspberry Pi using the CSI cable.
@@ -120,3 +118,6 @@ intended to be a tight fit and you may need to widen the hole with a drill.
 ### Congratulations you are now ready to start using the EnderScope! :-)
 
 # How to Use the EnderScope
+
+# Licence and Collaboration
+
