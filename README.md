@@ -101,8 +101,11 @@ intended to be a tight fit and you may need to widen the hole with a drill.
 - Attach the **‘NeopixelMount’** to the **‘NeopixelConnecter’** with M3 screws and nuts.
 - Solder dupont cables to 5v, ground and data input solder pads of the Neopixel 16 LED ring.
 - Wire up the neopixel as shown below:
-  
 
+- Remove the adhesive backing on the 170 pin breadboard and place this on the **'ArduinoNanoHolder'**. Slide the **'ArduinoNanoHolder'**, with the breadboard, push button and Arduino Nano attached, on to the Raspberry Pi Camera.
+- Attach the **'CableTidy'** to the horizontal crosspiece on the Ender frame. Clip the USB cable and Raspberry Pi CSI cable into the **'CableTidy'**.
+- Upload the relevant Arduino sketch to the Arduino nano.
+  
 ### Step 5: EnderScope
 - Connect the Raspberry Pi HQ Camera to the Raspberry Pi using the CSI cable.
 - Connect Raspberry Pi to monitor with HDMI-micro HDMI cable.
