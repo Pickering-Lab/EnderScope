@@ -36,7 +36,7 @@ The EnderScope is a low-cost scanning microscope, based on the mechanics of the 
 | Alan Keys | 1 |  |  |  |
 | M3 Screws and Nuts | 4 screws, 4 nuts |  |  |  |
 | Scissors | 1 |  |  |  |
-| **Total** |  |  |  | 524.57 |
+| **Total** |  |  |  |  |
 
 ### Printed Parts
 All 3D-printable files can be found [here](Stls). All files were printed in PLA, with 0.2mm layer height, no supports needed.
