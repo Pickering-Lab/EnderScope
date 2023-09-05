@@ -3,6 +3,12 @@ The EnderScope is a low-cost scanning microscope, based on the mechanics of the 
 
 <a href="#logo" name="logo"><img src="./Images/1684355823779.jpg" width="800"></a>
 
+# Help us get the EnderScope into the hands of the people! 
+We are currently raising funds to distribute the EnderScope to Maker Spaces, Libraries and Community Environmental Groups around Ireland. Take a look at [our crowdfunder on Experiment.com](https://www.experiment.com/enderscope) to learn more!
+
+![image](https://github.com/Pickering-Lab/EnderScope/assets/130670399/08a4499a-6d02-462a-a39c-04e0d7c9778c)
+
+
 # How to Build Your Own EnderScope!
 ## Hardware
 ### Bill of Materials
