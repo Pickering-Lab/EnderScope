@@ -24,7 +24,7 @@
     	SOFTWARE.
  
 ### Hardware
-All files licenced under the CERN Open Hardware Licence Version 2 - Permissive **_EXCEPT_** the [EnderScopeHotendToolHolder](Stls/EnderHotendToolHolder.stl), [EnderScopeToolHolder](Stls/EnderScopeToolHolder.stl), [Lever](Stls/Lever.stl) and [ToolHolderBase](Stls/ToolHolderBase.stl) which are licenced under CC-BY-SA 3.0 (see below).
+All files licenced under the CERN Open Hardware Licence Version 2 - Permissive **_EXCEPT_** the [EnderScopeHotendToolHolder](Stls/EnderHotendToolHolder.stl), [EnderScopeToolHolder](Stls/EnderScopeToolHolder.stl), [Lever](Stls/Lever.stl), [ToolHolderBase](Stls/ToolHolderBase.stl) and [CableTidy](Stls/CableTidy.stl) which are licenced under CC-BY-SA 3.0 (see below).
      
       
       CERN Open Hardware Licence Version 2 - Permissive
