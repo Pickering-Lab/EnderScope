@@ -52,7 +52,7 @@ All 3D-printable files can be found [here](Stls). All files were printed in PLA,
 All software for the EnderScope can be found [here](Software).
 
 ## Assembly Instructions
-Assembly Instructions for the EnderScope can be found [here]().
+Assembly Instructions for the EnderScope can be found [here](Assembly-Instructions).
 
 # Licence and Collaboration
 
