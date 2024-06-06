@@ -1,6 +1,11 @@
 # EnderScope
 The EnderScope is a low-cost scanning microscope, based on the mechanics of the ubiquitous 3D printer, the **Ender 3 Pro**. The hotend of the printer is replaced with an optics module, allowing for the reliable and well calibrated motion system of the 3D printer to be used for automated scanning over a large area.
 
+## Citing
+**EnderScope: a low-cost 3D printer-based scanning microscope for microplastic detection**
+Niamh Burke, Gesine Müller, Vittorio Saggiomo, Amy Ruth Hassett, Jérôme Mutterer, Patrick Ó Súilleabháin, Daniel Zakharov, Donal Healy, Emmanuel G Reynaud, Mark Pickering
+Philosophical Transactions A, 2024, 382 (2274) 20230214, http://doi.org/10.1098/rsta.2023.0214
+
 <a href="#logo" name="logo"><img src="./Images/1684355823779.jpg" width="800"></a>
 
 ## We have reached our funding target on Experiment.com! 🎉
